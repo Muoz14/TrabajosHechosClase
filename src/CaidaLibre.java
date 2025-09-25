@@ -1,5 +1,4 @@
-import clases.Ecuaciones;
-import clases.Operaciones;
+import Clases.Ecuaciones;
 
 import java.util.Scanner;
 
